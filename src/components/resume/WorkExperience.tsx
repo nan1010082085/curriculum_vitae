@@ -1,6 +1,6 @@
 import { useState, useRef } from 'react'
 import { motion, useInView } from 'framer-motion'
-import workExperienceData from '@/lib/workConstants'
+import workExperienceData from '@/contants/workConstants'
 
 export default function WorkExperience() {
   const [expandedId, setExpandedId] = useState<number | null>(workExperienceData[0].id)

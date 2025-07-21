@@ -1,4 +1,4 @@
-import projectsData from '@/lib/projectContants';
+import projectsData from '@/contants/projectContants';
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 

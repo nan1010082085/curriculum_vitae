@@ -1,4 +1,4 @@
-import interestsData from '@/lib/interestsContants';
+import interestsData from '@/contants/interestsContants';
 import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 

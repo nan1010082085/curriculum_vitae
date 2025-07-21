@@ -2,7 +2,7 @@ const workExperienceData = [
   {
     id: 1,
     company: '北京东华博泰科技有限公司',
-    position: '前端开发工程师',
+    position: '前端工程师',
     period: '2021.04-至今',
     logo: 'DH',
     content: `1. 参与可视化低代码项目的主要开发与维护，提升用户体验和操作效率。
@@ -37,7 +37,7 @@ const workExperienceData = [
   {
     id: 3,
     company: '北京中创益农科技有限公司',
-    position: '前端开发',
+    position: '前端工程师',
     period: '2019.02-2019.06',
     logo: 'ZC',
     content: `1. 负责公司微信商城端的开发与维护，确保其稳定运行并满足用户需求。
@@ -54,7 +54,7 @@ const workExperienceData = [
   {
     id: 4,
     company: '北京汇游智诚科技有限公司',
-    position: '前端开发',
+    position: '前端工程师',
     period: '2018.07-2019.01',
     logo: 'ZC',
     content: `1. 负责商户平台和总部平台管理端的前端开发工作，包括但不限于界面设计、交互逻辑和功能实现。
@@ -67,7 +67,7 @@ const workExperienceData = [
   {
     id: 5,
     company: '北京联创锐鑫信息技术有限公司',
-    position: '前端开发',
+    position: '前端工程师',
     period: '2018.03-2018.07',
     logo: 'ZC',
     content: `1. 联想百应资产3期pc版开发到上线。深入前端架构，对设计理解与分割模块。
@@ -78,7 +78,7 @@ const workExperienceData = [
   {
     id: 6,
     company: '北京云创生活科技有限公司',
-    position: '前端开发',
+    position: '前端工程师',
     period: '2016.09-2018.03',
     logo: 'ZC',
     content: `1. 负责公司所有项目的前端开发，包括无人超市销售系统、无人超市管理系统、微信H5会议室预约、健身房预约使用BD桌预约系
