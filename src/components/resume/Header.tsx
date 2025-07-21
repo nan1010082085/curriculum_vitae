@@ -56,12 +56,6 @@ export default function Header({ activeSection, onSectionClick }: HeaderProps) {
         
         {/* 联系方式 */}
         <div className="hidden md:flex items-center space-x-4">
-          {/* <a href="tel:15117960621" className="text-gray-400 hover:text-white transition-colors">
-            <i className="fa-solid fa-phone mr-1" />
-          </a>
-          <a href="mailto:nan1010082085@163.com" className="text-gray-400 hover:text-white transition-colors">
-            <i className="fa-solid fa-envelope mr-1" />
-          </a> */}
           <a href="https://github.com/nan1010082085" target="_blank" className="text-gray-400 hover:text-white transition-colors">
             <i className="fa-brands fa-github mr-1" />
           </a>
